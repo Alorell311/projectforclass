@@ -1,0 +1,174 @@
+.main1{
+    position: fixed;
+    top:-10px;
+    left:-5px;
+   
+   
+}
+
+.main2{
+ position: relative;
+ top:-1px;
+ width:950px;
+ border: #ff6600 solid 2px;
+ text-align:center;
+ margin:auto;
+ color:white;
+ text-align:center;
+ background-color: none;
+ font-family: arial;
+
+}
+
+.topheader hr{
+    text-align: left;
+    width:427px;
+    color:white;
+    margin:15px 5px 5px 0px;
+   
+
+}
+
+.topheader{
+    background-color: #ff6600;
+    margin: 90%;
+    color:white;
+    text-align:left;
+    padding:35px 0px 20px 133px;
+    font-family: arial;
+    margin:auto;
+    
+    
+    
+}
+
+.main > p {
+ text-align:left;
+ padding:0px 0px 0px 35px;
+ margin: 20px 0px 0px 0px;
+ 
+}
+
+
+ .column{
+ display:inline-block;
+ width:25%;
+ border: white solid .5px;
+ height:650px;
+ background-color: #ff9933;
+ color:black;
+ margin-top: 30px;
+     
+}
+
+.column2{
+ display:inline-block;
+ width:25%;
+ border: white solid .5px;
+ height:650px;
+ background-color: #cc9900;
+ color: black; 
+ margin-top: 30px;
+}
+
+.image1{
+    margin-top: 20px;
+     
+}
+
+
+.nav{
+    background-color: #ff6600;
+    height: 30px;
+    border:1px solid #ccc;
+    list-style:none;
+    margin-top:40px;
+    padding:30px;
+    text-align:center;
+}
+.nav li{
+    display:inline;
+   
+}
+.nav a{
+    display:inline-block;
+    padding:10px;
+    color: white;
+    text-decoration: none;
+    
+ }
+
+.nav a:hover {
+    background-color: #cc9900;
+}
+
+
+    
+font-family:arial;
+text-align: center;
+}
+
+h2{ 
+font-family:Arial;
+text-shadow: 2px 2px black;
+margin-left: 68px;
+
+}
+
+h3 {
+color: white;
+font-family:Arial;
+text-shadow: 2px 2px black;
+   
+}
+
+
+
+{
+    
+font-family:Lucida Console;
+text-shadow: 2px 2px black;  
+}
+
+.column > percent1
+{
+    border-color:black;
+    Width:100px;
+    height:30px;
+}
+
+.signoff{
+    position: relative;
+    top: 15px;
+    color: darkslategrey;
+    font-size: 7pt;  
+}
+.button{
+    margin: auto;
+    border: solid 1px white;
+    width: 48px;
+    height: 20px;
+    padding: 2px;
+    text-align:center;
+    
+    
+}
+
+.button > a{
+    text-decoration: none;
+    color: white;
+    
+    
+    
+}
+
+.button a:hover{
+    background-color: white ;
+    color: white;
+    padding: 2px 6px 5px 6px;
+   
+      
+}
+
+
+    
